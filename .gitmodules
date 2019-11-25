@@ -1,0 +1,15 @@
+[submodule "bootloader"]
+	path = bootloader
+	url = https://github.com/SayCV/Allwinner-SDKs-H6-lichee-v1p1-bootloader
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/SayCV/Allwinner-SDKs-H6-lichee-v1p1-buildroot
+[submodule "brandy"]
+	path = brandy
+	url = https://github.com/SayCV/Allwinner-SDKs-H6-lichee-v1p1-brandy
+[submodule "tools"]
+	path = tools
+	url = https://github.com/SayCV/Allwinner-SDKs-H6-lichee-v1p1-tools
+[submodule "linux-3.10"]
+	path = linux-3.10
+	url = https://github.com/SayCV/Allwinner-SDKs-H6-lichee-v1p1-linux-3.10
