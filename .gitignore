@@ -1,0 +1,6 @@
+.buildconfig
+linux-3.10/modules/gpu/mali400/kernel_mode/driver/src/devicedrv/mali/Module.symvers
+linux-3.10/modules/nand/Module.symvers
+linux-3.10/samples/hidraw/hid-example
+tools/pack/*.img
+out/
